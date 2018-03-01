@@ -1,0 +1,16 @@
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/bin/Debug/PhoneWordApp.dll
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/bin/Debug/PhoneWordApp.pdb
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/bin/Debug/Xamarin.Forms.Core.xml
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/obj/Debug/PhoneWordApp.csprojResolveAssemblyReference.cache
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/obj/Debug/PhoneWordApp.csproj.CoreCompileInputs.cache
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/obj/Debug/PhoneWordApp.App.xaml.g.cs
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/obj/Debug/PhoneWordApp.dll
+/Users/abhishek/Documents/Xamarin/PhoneWordApp/PhoneWordApp/obj/Debug/PhoneWordApp.pdb
